@@ -3,7 +3,7 @@
 Bonjour Monsieur, 
 
 J'ai réaliser mon site sur le template que vous nous avez gentiment donné. Tout est personnalisables sauf la couleur de fond et la police d'écriture ainsi que la disposition des éléments
-Vous trouverez la base de donnée dans le dossier "bdd". ⚠️ ATTENTION ⚠️  dans inc/db.php le mdp est 'root' car je suis sur Mac donc MAMP.
+Vous trouverez la base de donnée dans le dossier "database". ⚠️ ATTENTION ⚠️  dans inc/db.php le mdp est 'root' car je suis sur Mac donc MAMP.
 
 Voici les fonctionnalités que j'ai ajouté depuis notre entretien : 
 
