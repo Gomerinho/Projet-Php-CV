@@ -1,16 +1,12 @@
 # Projet-Php-CV
  
-Bonjour Monsieur, 
+Bonjour, 
 
-J'ai réaliser mon site sur le template que vous nous avez gentiment donné. Tout est personnalisables sauf la couleur de fond et la police d'écriture ainsi que la disposition des éléments
-Vous trouverez la base de donnée dans le dossier "database". ⚠️ ATTENTION ⚠️  dans inc/db.php le mdp est 'root' car je suis sur Mac donc MAMP.
+J'ai réaliser mon site sur la base d'un template. Tout est personnalisables sauf la couleur de fond et la police d'écriture ainsi que la disposition des éléments.
 
-Voici les fonctionnalités que j'ai ajouté depuis notre entretien : 
+Voici les fonctionnalités que j'ai ajouté : 
 
 -Login : on doit désormais se connecter pour avoir accès au panneau de contrôle. Pas de sécurité à ce niveau, dans le futur il faudra faire un hashage du mot de passe.
-
-username : admin 
-mot de passe : admin
 
 -Ajout de langages de programmation: on peut choisir quel langage de programmation nous souhaitons ajouter à notre site et l'icone apparaîtra.
 
@@ -18,6 +14,6 @@ mot de passe : admin
 
 C'est tout pour moi ! n'hésitez pas à revenir vers moi en cas de problème ou pour plus d'information.
 
-Bonne continuation, en espérant vous revoir bientôt, merci pour tout.
+Bonne continuation, en espérant vous revoir bientôt, merci.
 
 GOMES VITORINO Marvin B1B Info
